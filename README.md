@@ -24,15 +24,18 @@
 
 
 ## Menú Principal :
-![Screenshot_20220414-204236_Termux](https://user-images.githubusercontent.com/81049859/163499224-af0ab0e9-b3a1-492a-9a55-920f8a2f11cf.png)
+![Screenshot_20220414-210429_Termux](https://user-images.githubusercontent.com/81049859/163501818-10eebb18-856e-4263-a936-d75824642c83.png)
+
 
 
 ## Automatización :
-![Screenshot_20220414-204255_Termux](https://user-images.githubusercontent.com/81049859/163499344-d4ae1ec8-a429-4acf-9e01-a14ce7962f69.png)
+![Screenshot_20220414-210459_Termux](https://user-images.githubusercontent.com/81049859/163501830-ee612766-368b-4ecf-b3d8-b5868be68190.png)
+
 
 
 ## Guía Msf By JulioCj7 : 
-![Screenshot_20220414-204320_Termux](https://user-images.githubusercontent.com/81049859/163499379-486a9087-083f-402a-9a42-774638a5f825.png)
+![Screenshot_20220414-210517_Termux](https://user-images.githubusercontent.com/81049859/163501839-7fab9f95-b09f-414d-9481-74cf66a9c237.png)
+
 
 
 ## MsfCj7 :
