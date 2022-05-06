@@ -41,9 +41,8 @@
 
 ## MsfCj7 :
 * Instala **Metasploit** correctamente y sin errores.
-* Crea automáticamente tus **payloads**.
-* Crea automáticamente una **persistencia**.
-* Aprende un par de **guías útiles**.
+* Crea automáticamente **payloads** y **persistencias**.
+* Aprende muchísimas y útiles **guías útiles**.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
