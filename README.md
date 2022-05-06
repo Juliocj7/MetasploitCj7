@@ -24,7 +24,8 @@
 
 
 ## Menú Principal :
-![Screenshot_20220414-210429_Termux](https://user-images.githubusercontent.com/81049859/163501818-10eebb18-856e-4263-a936-d75824642c83.png)
+![Screenshot_20220506-150205_Termux](https://user-images.githubusercontent.com/81049859/167202341-08f401cb-3a78-4593-ae8a-66588f904d1e.png)
+
 
 
 
