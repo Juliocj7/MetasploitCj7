@@ -42,7 +42,7 @@
 ## MsfCj7 :
 * Instala **Metasploit** correctamente y sin errores.
 * Crea automáticamente **payloads** y **persistencias**.
-* Aprende muchísimas y útiles **guías útiles**.
+* Aprende muchísimas y **útiles guías**.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
