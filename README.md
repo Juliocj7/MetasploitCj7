@@ -26,17 +26,13 @@
 ## Menú Principal :
 ![Screenshot_20220513-181443_Termux](https://user-images.githubusercontent.com/81049859/168396267-8cbb4616-3105-499c-96c9-b2b1930ad434.png)
 
-
-
-
-
 ## Automatización :
-![Screenshot_20220414-210459_Termux](https://user-images.githubusercontent.com/81049859/163501830-ee612766-368b-4ecf-b3d8-b5868be68190.png)
+![Screenshot_20220513-182528_Termux](https://user-images.githubusercontent.com/81049859/168396935-6c3e126f-dd14-426b-80d6-c9d53969b391.png)
 
 
 
 ## Guía Msf By JulioCj7 : 
-![Screenshot_20220414-210517_Termux](https://user-images.githubusercontent.com/81049859/163501839-7fab9f95-b09f-414d-9481-74cf66a9c237.png)
+![Screenshot_20220513-182624_Termux](https://user-images.githubusercontent.com/81049859/168396948-b3a0fa17-331d-4b54-a7f1-706751d07c6d.png)
 
 
 
