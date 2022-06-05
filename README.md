@@ -32,9 +32,9 @@
 ![Screenshot_20220523-162214_Termux](https://user-images.githubusercontent.com/81049859/169899959-95edb5c8-a6c9-4231-84c3-ced35ff080f2.png)
 
 ## MsfCj7 :
-* Instala **Metasploit** correctamente y sin errores.
-* Crea automáticamente **payloads** y **persistencias**.
-* Aprende muchísimas y **útiles guías**.
+* Instala **Metasploit 6** correctamente y sin errores.
+* Crea automáticamente **payloads** y script de **persistencia**.
+* Aprende muchísimas, útiles y prácticas **guías**.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
