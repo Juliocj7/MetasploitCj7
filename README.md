@@ -31,7 +31,7 @@
 ## Guía Msf By JulioCj7 : 
 ![Screenshot_20220523-162214_Termux](https://user-images.githubusercontent.com/81049859/169899959-95edb5c8-a6c9-4231-84c3-ced35ff080f2.png)
 
-## MsfCj7 :
+## MetasploitCj7 :
 * Instala **Metasploit 6** correctamente y sin errores.
 * Crea automáticamente **payloads** y script de **persistencia**.
 * Aprende muchísimas, útiles y prácticas **guías**.
@@ -49,13 +49,13 @@ https://github.com/Juliocj7/UtilsCj7
 ```bash
   yes|pkg update && pkg upgrade
 ```
-* ` git clone https://github.com/Juliocj7/MsfCj7 `
+* ` git clone https://github.com/Juliocj7/MetasploitCj7 `
 
-* ` cd MsfCj7 `
+* ` cd MetasploitCj7 `
 
 * ` chmod +x * `
 
-* ` ./MsfCj7 `
+* ` ./MetasploitCj7 `
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
