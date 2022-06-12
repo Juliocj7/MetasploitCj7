@@ -28,7 +28,7 @@
 ## Automatización :
 ![Screenshot_20220523-162318_Termux](https://user-images.githubusercontent.com/81049859/169899980-f9d0cfd8-bce0-45af-a6be-73d28b8a2b46.png)
 
-## Guía Msf By JulioCj7 : 
+## Guía By JulioCj7 : 
 ![Screenshot_20220523-162214_Termux](https://user-images.githubusercontent.com/81049859/169899959-95edb5c8-a6c9-4231-84c3-ced35ff080f2.png)
 
 ## MetasploitCj7 :
