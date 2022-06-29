@@ -33,7 +33,7 @@
 * `[ 02 ]` Crea automáticamente varios tipos de **payloads** (.apk .py .sh .pl) más su respectivo script de **persistencia**.
 * `[ 03 ]` Personaliza un payload.apk **modificando** el nombre del backdoor y cambiando el ícono por el que desees para una mejor ingeniería social.
 * `[ 04 ]` Infecta una aplicación **legítima** (con un backdoor.apk creado con msfvenom), crea su respectivo script de **persistencia** y hazla totalmente indetectable.
-* `[ 05 ]` Inicia y configura **automáticamente** la consola de metasploit-framework.
+* `[ 05 ]` Configura e inicia **automáticamente** la consola de metasploit-framework.
 * `[ 06 ]` Aprende muchísimas, útiles y prácticas **guías** que te ayudarán a dominar la herramienta.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
