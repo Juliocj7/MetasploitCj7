@@ -23,10 +23,10 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220626-192649_Termux](https://user-images.githubusercontent.com/81049859/175838066-a2ea1b75-f55b-489e-816f-399a46d11cfc.png)
+![Screenshot_20221228-234340_Termux](https://user-images.githubusercontent.com/81049859/209901274-d37c9e09-6746-4fc0-9529-32b3ca7100c1.png)
 
 ## Guía By JulioCj7 : 
-![Screenshot_20220626-192716_Termux](https://user-images.githubusercontent.com/81049859/175838072-93ce6c96-0e2b-406a-adba-fac1d2e02791.png)
+![Screenshot_20221228-234357_Termux](https://user-images.githubusercontent.com/81049859/209901285-9cc7c888-8121-4161-afc7-fafe8093a907.png)
 
 ## MetasploitCj7 :
 * `[ 01 ]` Instala **Metasploit 6** correctamente y sin errores.
