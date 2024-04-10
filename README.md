@@ -23,10 +23,10 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20230514_122937_Termux](https://github.com/Juliocj7/MetasploitCj7/assets/81049859/579064d6-0ffd-46c9-a046-9b0a8367cf06)
+![1000328500](https://github.com/Juliocj7/MetasploitCj7/assets/81049859/9b50c8dd-085b-48c0-9db4-fb468a2f1dd1)
 
 ## Guía By JulioCj7 : 
-![Screenshot_20230514_123019_Termux](https://github.com/Juliocj7/MetasploitCj7/assets/81049859/587107cc-92e9-4e45-a5aa-cd62048d07f2)
+![1000328501](https://github.com/Juliocj7/MetasploitCj7/assets/81049859/7e4cdd0c-b0ab-4399-b88e-69f714068e2c)
 
 ## MetasploitCj7 :
 * `[ 01 ]` Instala **Metasploit 6** correctamente y sin errores.
