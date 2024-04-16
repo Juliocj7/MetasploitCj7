@@ -62,17 +62,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/MetasploitCj7 `
-
-* ` cd MetasploitCj7 `
-
-* ` chmod +x * `
-
-* ` ./MetasploitCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/MetasploitCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd MetasploitCj7 && chmod +x * && ./MetasploitCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
